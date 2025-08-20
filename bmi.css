@@ -118,7 +118,7 @@ border-radius: 8px;
 }
 
 
-@media screen and (max-width:300px) {
+@media screen and (max-width:380px) {
 
   .maindiv {
   /* border: 1px solid red; */
