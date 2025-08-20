@@ -126,8 +126,7 @@ border-radius: 8px;
 
   width: 200px;
   background-color: beige;
-
-
+margin-left: 50px;
 }h2{
   font-size: medium;
   margin-top: 10px;
@@ -172,5 +171,8 @@ width: 50px;
 background-color: lightgreen;
 border: none;
 border-radius: 8px;
+}
+h3{
+  font-size:13px;
 }
 }
